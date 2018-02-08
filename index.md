@@ -5,3 +5,19 @@
 - [AEA Final Assignment](https://joostbouten.github.io/AEA_Joost_Twan.html) - "Exploring the world of cryptocurrencies" 
 
 
+
+
+
+
+
+
+```html
+{% if site.linkedin_username %}
+  <li>
+    <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+      <i class="fa fa-linkedin"></i> LinkedIn
+    </a>
+  </li>
+{% endif %}
+```
+
