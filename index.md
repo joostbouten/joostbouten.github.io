@@ -1,6 +1,6 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
-# Contents:
+# Contents
 
 - [My CV](https://joostbouten.github.io/curriculum-vitae.pdf) - "Curriculum Vitae"
 - [My MSc Thesis](https://joostbouten.github.io/mscthesis.pdf) - "Influence Optimization in Interorganizational Healthcare Networks"					 
