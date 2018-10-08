@@ -8,8 +8,7 @@
 - [AEA Final Assignment](https://joostbouten.github.io/AEA_Joost_Twan.html) - "Exploring the world of cryptocurrencies" 
 
 # Social
-- LinkedIn: 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="nl_NL" data-type="vertical" data-theme="light" data-vanity="joost-bouten"><a class="LI-simple-link" href='https://be.linkedin.com/in/joost-bouten?trk=profile-badge'>Joost Bouten</a></div>
+- [LinkedIn](https://www.linkedin.com/in/joost-bouten)
 
 
 
